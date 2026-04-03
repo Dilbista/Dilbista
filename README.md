@@ -71,4 +71,4 @@ I love learning new technologies and creating real-world projects.
 ---
 
 # 💬 Quote
-_"Code. Learn. Build. Repeat."
+- "Code. Learn. Build. Repeat."
